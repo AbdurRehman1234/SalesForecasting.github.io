@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+<h1>Sales Forecasting</h1>
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt neque eligendi consequuntur! Sunt aliquid quidem dignissimos obcaecati asperiores laboriosam, blanditiis amet, nesciunt voluptas pariatur optio eius corporis explicabo quisquam a.
+Sit omnis enim quidem officiis, ipsa tenetur repellendus accusantium quos alias reprehenderit cumque, quasi doloribus voluptates a? Fugit voluptatum sequi soluta harum voluptatem, sint iste excepturi autem magni, numquam similique!
+Eaque a placeat quae architecto voluptas autem hic fugiat dolores eos eveniet, saepe consequatur, ab repudiandae cumque vitae. Quasi quod accusamus eaque, in dicta ipsam eos molestias unde doloribus illum?
+Illo, explicabo vel, laborum id, fuga nobis quia mollitia odit culpa deserunt eaque adipisci minima quasi ipsa commodi dolorum. A quidem sequi praesentium excepturi? Culpa ullam libero officiis neque corporis.
+Accusantium ipsam, corporis sequi impedit consequatur corrupti asperiores repellendus nisi repellat assumenda maiores architecto totam neque reiciendis exercitationem ducimus doloribus dignissimos eius atque? Dolore quaerat maxime beatae aliquid explicabo animi.
+Nam reprehenderit aperiam iusto. Animi a, perferendis harum minus doloremque quis iusto fugiat ullam saepe et temporibus necessitatibus provident, similique suscipit dolorem in! Ipsa suscipit quam adipisci, accusamus consequuntur eaque?
+Molestiae corrupti aliquam, mollitia architecto, fugiat neque odit aspernatur quam inventore, dolore soluta. Ipsa et natus, laudantium earum quae, hic, ad assumenda aliquam ullam quod porro fugit corrupti expedita accusamus!
+Ex adipisci aliquid distinctio maiores, alias vitae repellat, facilis a obcaecati optio rem voluptatibus corporis autem qui corrupti sequi id in. Nemo quam eos error aperiam maiores architecto omnis eius.
+Est accusamus sit dicta facere aperiam saepe excepturi possimus temporibus expedita, alias, dolorem, suscipit impedit aspernatur omnis aliquam explicabo? Neque sed quasi a unde exercitationem ullam sapiente reiciendis accusantium rem?
+Pariatur enim in veniam saepe obcaecati dolorum nobis cum quas, error consequatur, quam accusamus tempora veritatis. Aliquam sunt ipsam blanditiis nemo nobis, possimus ab quidem totam nulla dolorem sint provident!
 
-You can use the [editor on GitHub](https://github.com/AbdurRehman1234/SalesForecasting.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1>Project Files</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbdurRehman1234/SalesForecasting.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/IMPLEMENTATION%20PLAN/Time%20Series%20Sale%20Forecasting_Plan.pdf">Implementation Plan</a>
+<a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/docs/TIme%20Series%20Sale%20Forecasting_Report.pdf">Documentation</a>
