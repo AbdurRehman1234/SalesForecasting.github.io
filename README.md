@@ -10,6 +10,13 @@ Ex adipisci aliquid distinctio maiores, alias vitae repellat, facilis a obcaecat
 Est accusamus sit dicta facere aperiam saepe excepturi possimus temporibus expedita, alias, dolorem, suscipit impedit aspernatur omnis aliquam explicabo? Neque sed quasi a unde exercitationem ullam sapiente reiciendis accusantium rem?
 Pariatur enim in veniam saepe obcaecati dolorum nobis cum quas, error consequatur, quam accusamus tempora veritatis. Aliquam sunt ipsam blanditiis nemo nobis, possimus ab quidem totam nulla dolorem sint provident!</p>
 
+<h1>Abstract</h1>
+Est accusamus sit dicta facere aperiam saepe excepturi possimus temporibus expedita, alias, dolorem, suscipit impedit aspernatur omnis aliquam explicabo? Neque sed quasi a unde exercitationem ullam sapiente reiciendis accusantium rem?
+
+<h1>Features</h1>
+Est accusamus sit dicta facere aperiam saepe excepturi possimus temporibus expedita, alias, dolorem, suscipit impedit aspernatur omnis aliquam explicabo? Neque sed quasi a unde exercitationem ullam sapiente reiciendis accusantium rem?
+
+
 <h1>Project Files</h1>
 
 <a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/IMPLEMENTATION%20PLAN/Time%20Series%20Sale%20Forecasting_Plan.pdf">Implementation Plan</a>
