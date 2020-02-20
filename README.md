@@ -19,5 +19,5 @@ Est accusamus sit dicta facere aperiam saepe excepturi possimus temporibus exped
 
 <h1>Project Files</h1>
 
-<a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/IMPLEMENTATION%20PLAN/Time%20Series%20Sale%20Forecasting_Plan.pdf">Implementation Plan</a>
-<a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/docs/TIme%20Series%20Sale%20Forecasting_Report.pdf">Documentation</a>
+<a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/IMPLEMENTATION%20PLAN/Time%20Series%20Sale%20Forecasting_Plan.pdf">Implementation Plan</a><br>
+<a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/docs/TIme%20Series%20Sale%20Forecasting_Report.pdf">Documentation</a><br>
