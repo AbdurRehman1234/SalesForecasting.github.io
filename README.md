@@ -46,9 +46,9 @@ basis, to assure which month or year will be good for the business
   
  
  <h2>Team Members</h2>
- <b>Abdur Rehman</b>
- <b>Arslan Ali</b>
- <b>Hassan Wali</b>
+ <b>Abdur Rehman</b></br>
+ <b>Arslan Ali</b></br>
+ <b>Hassan Wali</b></br>
  
 <h1>Project Files</h1>
 <a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/IMPLEMENTATION%20PLAN/Time%20Series%20Sale%20Forecasting_Plan.pdf">Implementation Plan</a><br>
