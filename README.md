@@ -44,8 +44,12 @@ basis, to assure which month or year will be good for the business
 <li>Flask</li>
 <li>ARIMA MODEL and PROPHET MODEL</li>
   
-  
+ 
+ <h2>Team Members</h2>
+ <b>Abdur Rehman</b>
+ <b>Arslan Ali</b>
+ <b>Hassan Wali</b>
+ 
 <h1>Project Files</h1>
-
 <a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/IMPLEMENTATION%20PLAN/Time%20Series%20Sale%20Forecasting_Plan.pdf">Implementation Plan</a><br>
 <a href="https://github.com/AbdurRehman1234/AbdurRehman1234.github.io/blob/master/docs/TIme%20Series%20Sale%20Forecasting_Report.pdf">Documentation</a><br>
